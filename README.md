@@ -2,19 +2,18 @@ Description:
 Welcome to my Weather Prediction Website! This web application utilizes machine learning algorithms and real-time data to provide accurate weather forecasts. It is designed to help users plan their activities based on weather conditions.
 
 Features:
-
 Real-time weather updates based on user's location.
 User-friendly interface with intuitive design.
 Responsive layout, suitable for various devices.
-Technologies Used:
 
+Technologies Used:
 HTML, CSS, JavaScript for frontend development.
 Python for backend processing and machine learning algorithms.
 Flask framework for server-side implementation.
 OpenWeatherMap API for fetching real-time weather data.
 Machine learning libraries for weather prediction.
-How to Use:
 
+How to Use:
 Clone the repository and navigate to the project directory.
 Install the required dependencies mentioned in the requirements.txt file.
 Run the Flask application using the command: python app.py
