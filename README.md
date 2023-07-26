@@ -18,7 +18,7 @@ How to Use:
 Clone the repository and navigate to the project directory.
 Install the required dependencies mentioned in the requirements.txt file.
 Run the Flask application using the command: python app.py
-Access the website at http://localhost:5000 in your web browser.
+Access the website at https://rohit-r-bhilare.github.io/weather_website/ in your web browser.
 Allow location access to get weather updates based on your current location.
 Explore the weather forecasts and plan your activities accordingly!
 Contributing:
