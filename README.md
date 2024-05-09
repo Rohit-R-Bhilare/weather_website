@@ -1,4 +1,3 @@
-Description:
 Welcome to my Weather Prediction Website! This web application utilizes machine learning algorithms and real-time data to provide accurate weather forecasts. It is designed to help users plan their activities based on weather conditions.
 
 Features:
