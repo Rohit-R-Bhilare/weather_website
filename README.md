@@ -3,7 +3,7 @@ Welcome to my Weather Prediction Website! This web application utilizes machine 
 Features:
 Real-time weather updates based on user's location.
 User-friendly interface with intuitive design.
-Responsive layout, suitable for various devices.
+Responsive layout, suitable for various  devices.
 
 Technologies Used:
 HTML, CSS, JavaScript for frontend development.
